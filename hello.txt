@@ -1,3 +1,7 @@
 This is a sample file for git basic.
 this is for 2nd type merge reccursive merge
+
 for conflict edited from master branch.
+
+for conflict edited from feature branch.
+
