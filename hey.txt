@@ -1,3 +1,4 @@
 this is sample for branch switching
 this is for 2nd type merge
 this is for sample
+this is for sample clone
